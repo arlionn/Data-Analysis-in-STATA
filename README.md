@@ -1,8 +1,13 @@
+
+
+
 ### Dataset
 
 The dataset comes from Chinese Manufacturing Industry year book. 
 
 It is a year 2000-2007 panel data with more than a million observation.
+
+
 
 ### Empirical data analysis.do
 
@@ -19,6 +24,8 @@ Things I did can be described in the order:
   * Estimating Total Factor Productivity by using Levinsohn and Petrin method
 
   * Accoung for treatment effect by using Propensity Score Matching 
+
+
 
 ### Writing sample
 
